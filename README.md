@@ -1,6 +1,6 @@
 # iPhone 15 Pro - Interactive Product Showcase
 
-![Project Banner](https://placehold.co/1200x400?text=iPhone+15+Pro+Showcase)
+![Project Banner](./public/assets/images/readme-shot.png)
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
