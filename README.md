@@ -45,8 +45,8 @@ A premium interactive showcase for iPhone 15 Pro featuring 3D model visualizatio
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/iphone-15-pro.git
-cd iphone-15-pro
+git clone https://github.com/DRAKKKkk/Iphone.git
+cd Iphone
 Install dependencies
 
 bash
