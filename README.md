@@ -73,8 +73,9 @@ Video Carousel
 🤝 Connect
 Have questions about the implementation? Feel free to reach out!
 
-LinkedIn
-Email
+LinkedIn - https://www.linkedin.com/in/tejas-raj-09aa4a236/
+Email - rajtejas.xyz@gmail.com
+PortFolio - https://portfolio-ecru-iota-48.vercel.app/
 
 Note: This project was developed as a technical demonstration of advanced frontend capabilities. Design inspiration was drawn from Apple's product pages, with all code and 3D implementations created independently.
 
